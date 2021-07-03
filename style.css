@@ -77,3 +77,9 @@ p {
 footer p {
   text-align: center;
 }
+
+.image-2 {
+  background-image: url(images/exp-bg.png);
+  background-position: left;
+  background-repeat: no-repeat;
+}
